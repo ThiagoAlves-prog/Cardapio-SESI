@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.tr-cor{
+    background-color: lightblue
+}
+.tab{
+    margin: 0 auto;
+    width: 1150px;
+    height: 627px;
+}
+.perfil{
+    border-radius: 10px;
+}
+.perfil:hover{
+    transform: scale(1.2);
+    transition: 0.3s;
+    border-radius: 200px;
+}
+p{
+    font-size: 24px;
+}
+.cor-fundo{
+    background-color: cadetblue;
+}
+body{
+    background-color: honeydew;
+}
+header{
+    background-color: skyblue;
+    margin-inline: 200px;
+}
